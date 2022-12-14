@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Obinna Iloeje</h1>
-<h3 align="center"> I'm a very passionate and higly motivated Developer who is eager to develop from scratch and also contribute deeply to the development of User-Friendly Interfaces and User-Experience Softwares. I have gathered lots of experiences from building Problem Solving Web Applications from personal projects, to projects with my colleagues , and to testing, bugs fixes, feature updates and performance enhancements of freelance projects.</h3>
+<h3 align="center"> I'm a very passionate and highly motivated Developer who is eager to develop from scratch and also contribute deeply to the development of User-Friendly Interfaces and User-Experience Softwares. I have gathered lots of experiences from building Problem Solving Web Applications from personal projects, to projects with my colleagues , and to testing, bugs fixes, feature updates and performance enhancements of freelance projects.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samsperd" alt="samsperd" /></a> </p>
 

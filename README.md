@@ -4,7 +4,7 @@
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=samsperd&&style=flat-square" align="center" />
 </div>
-<h3 align="center"> I'm a very passionate and highly motivated Developer who is eager to develop from scratch and also contribute deeply to the development of User-Friendly Interfaces and User-Experience Softwares. I have gathered lots of experiences from building Problem Solving Web Applications from personal projects, to projects with my colleagues , and to testing, bugs fixes, feature updates and performance enhancements of freelance projects.</h3>
+<h3 align="center"> I am a very highly motivated and passionate Developer who is eager to develop from scratch and also contribute deeply to the development of User-Friendly Interfaces and User-Experience Softwares. I have gathered lots of experiences from building Problem Solving Web Applications from my personal projects, to projects with my colleagues , and, to testing, bugs fixing, feature updates and performance enhancements of freelance projects.</h3>
 
 <br />
 

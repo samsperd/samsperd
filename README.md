@@ -14,7 +14,7 @@
 
 <p align="left"> <a href="https://twitter.com/samsperd" target="blank"><img src="https://img.shields.io/twitter/follow/samsperd?logo=twitter&style=for-the-badge" alt="samsperd" /></a> </p>
 
-- 🔭 I’m currently working on a **Resume Builder** that follows ATS Principles
+- 🔭 I’m currently working on a **Javascipt to Typescript Compiler** web application
 
 - 🌱 I’m currently learning **React Native and Node js**
 

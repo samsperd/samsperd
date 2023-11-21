@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **React Native and Node js**
 
-- 💬 Ask me about **React js, Redux, Next js and Vue js**
+- 💬 Ask me about **React js, Redux, Next js, and Node js**
 
 - ⚡ Fun fact: I wake up with Software Ideas Everyday
 

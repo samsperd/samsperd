@@ -66,7 +66,7 @@
 <div align="center">
 
 <a href="https://www.youtube.com/channel/UCxmr5Ygr2A3UqZnGccvK-9Q" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/obinna-iloeje-15183a202" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" style="margin-bottom: 5px;" />

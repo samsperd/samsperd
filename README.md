@@ -14,9 +14,9 @@
 
 - 🔭 I’m currently working on a **Javascipt to Typescript Compiler** web application
 
-- 🌱 I’m currently learning **React Native and Node js**
+- 🌱 I’m currently learning **Flutter and Cloud Computing**
 
-- 💬 Ask me about **React js, Redux, Next js, and Node js**
+- 💬 Ask me about **React js, React Native Redux, Next js, Laravel and Node js**
 
 - ⚡ Fun fact: I wake up with Software Ideas Everyday
 
